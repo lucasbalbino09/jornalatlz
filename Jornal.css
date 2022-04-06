@@ -1,0 +1,52 @@
+    body {
+        background-image: linear-gradient(45deg, black, rgb(40, 40, 209), rgba(255, 166, 0, 0.664));
+        margin: 5px;
+        color: antiquewhite;
+        /* text-align: center; */
+        /* font-family: Arial, Helvetica, sans-serif; */
+        /* text-align: center; */
+        font: normal 18pt Arial;
+    }
+    
+    img {
+        width: 500px;
+        margin-right: 10px;
+        border-radius: 10%;
+        margin-left: 35%;
+    }
+    
+    .titular {
+        text-align: center;
+        font: normal 50pt italic;
+        margin: 50px;
+    }
+    
+    #navbar a {
+        width: 200px;
+        margin-top: 50px;
+        margin-right: auto;
+        text-decoration: none;
+    }
+    
+    .bomba {
+        margin-top: 3%;
+    }
+    
+    .principal {
+        margin-top: 2%;
+        margin: 20px;
+    }
+    
+    .rodape {
+        background: rgba(0, 0, 0, 0.493);
+        /* font: normal 20pt Arial; */
+        margin: 2px;
+        width: 100%;
+        padding: 5px;
+        margin-right: 200%;
+        margin-top: 100px;
+    }
+    
+    .apresentacao {
+        margin-left: 30px;
+    }
